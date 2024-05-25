@@ -14,8 +14,11 @@ An audio dataset with .wav, .phn, .txt and .wrd files.
 _.wav_ - A wave format in the shape of sphere-heads. 
 Contains all the original values of the audio files which are normalized when you load with _Librosa_ as mentioned in its description.
 
+1. Example audio file
+![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
 
+2. Spectrogram of the audio file
 ![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/Spectrogram-SA1.png?raw=true)
 
 
-![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
+
