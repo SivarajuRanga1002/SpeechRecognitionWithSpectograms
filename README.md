@@ -15,4 +15,4 @@ _.wav_ - A wave format in the shape of sphere-heads.
 Contains all the original values of the audio files which are normalized when you load with _Librosa_ as mentioned in its description.
 
 
-![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/Spectrogram-SA1.png?raw=true)
+![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/main/Spectrogram-SA1.png?raw=true)
