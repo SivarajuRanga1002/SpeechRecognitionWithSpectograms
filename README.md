@@ -16,3 +16,6 @@ Contains all the original values of the audio files which are normalized when yo
 
 
 ![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/Spectrogram-SA1.png?raw=true)
+
+
+![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
