@@ -1,5 +1,9 @@
 # SpeechRecognitionWithSpectograms
 
+The CNN architecture is shown below
+![Cnnarchitecture](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/assets/65248651/4327cea5-fe37-4e77-9111-aca9615d2afe)
+
+
 **Sampling Rate**:
 The rate at which we convert an analog signal to a digital signal i.e., the number of times per second an analog signal is measured or sampled to create a digital representation of the signal. Measured in Frequency
 
@@ -37,11 +41,13 @@ We assign the phoneme to their registered numerical values. If the machine can't
 The 2D Spectrogram Matrix has the first column as the maximum length. Using KERAS we pad all the rest of the columns to match the maximum column length.
 
 
-A Clear idea on how the data flows and how exactly the code is used with base concepts are mentioned in the PDF folder....
+A Clear idea on how the data flows and how exactly the code works with basic concepts are mentioned in the files inside the PDF folder....
 
 
 Results:
 
+![CNNmodel](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/assets/65248651/f7a54ca3-1bb0-4d98-bff7-7f87fc5dfece)
+![CNNgraph](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/assets/65248651/e32288b4-8619-4e2d-95a3-46edb40a6dda)
 
 
 
