@@ -15,16 +15,15 @@ An audio dataset with .wav, .phn, .txt and .wrd files.
 Contains all the original values of the audio files which are normalized when you load with _Librosa_ as mentioned in its description.
 
 1. Example audio file
-   
-![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
-![alt text](SpeechRecognitionWithSpectograms/HowToLoadData/Spectrogram-SA1.png)
+
+![wav_file SR=44100](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/assets/65248651/81dafd60-b5db-466a-87b4-be7ecde72278)
 
 This audio file i.e., the _.wav_ format file has the amplitudes of audio signal at specific points in time
 
 
 2. Spectrogram of the audio file
 
-![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/HowToLoadData/blob/main/Spectrogram-SA1.png?raw=true)
+![Spectrogram-SA1](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/assets/65248651/3a6c5100-d014-4aeb-b9b4-7b886d289bcd)
 
 When we convert an audio file from the time domain to the TIME AND FREQUENCY domain using FFT and then convert the amplitudes to decibels we get the Spectrogram.
 _The output of the spectrogram is a 2D Matrix with data indicating the changes in Frequency and Time values_
