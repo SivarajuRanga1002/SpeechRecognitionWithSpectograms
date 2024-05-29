@@ -41,7 +41,7 @@ A Clear idea on how the data flows and how exactly the code is used with base co
 
 
 Results:
-![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
+
 
 
 
