@@ -17,6 +17,7 @@ Contains all the original values of the audio files which are normalized when yo
 1. Example audio file
    
 ![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
+![alt text](SpeechRecognitionWithSpectograms/HowToLoadData/Spectrogram-SA1.png)
 
 This audio file i.e., the _.wav_ format file has the amplitudes of audio signal at specific points in time
 
