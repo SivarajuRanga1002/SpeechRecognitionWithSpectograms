@@ -37,6 +37,14 @@ We assign the phoneme to their registered numerical values. If the machine can't
 The 2D Spectrogram Matrix has the first column as the maximum length. Using KERAS we pad all the rest of the columns to match the maximum column length.
 
 
+A Clear idea on how the data flows and how exactly the code is used with base concepts are mentioned in the PDF folder....
+
+
+Results:
+![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/main/.wavFile-SampleRate=44100-SA1.png?raw=true)
+
+
+
 
 
 
