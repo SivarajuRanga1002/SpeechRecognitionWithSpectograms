@@ -23,7 +23,7 @@ This audio file i.e., the _.wav_ format file has the amplitudes of audio signal 
 
 2. Spectrogram of the audio file
 
-![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/blob/HowToLoadData/Spectrogram-SA1.png?raw=true)
+![alt text](https://github.com/SivarajuRanga1002/SpeechRecognitionWithSpectograms/HowToLoadData/blob/Spectrogram-SA1.png?raw=true)
 
 When we convert an audio file from the time domain to the TIME AND FREQUENCY domain using FFT and then convert the amplitudes to decibels we get the Spectrogram.
 _The output of the spectrogram is a 2D Matrix with data indicating the changes in Frequency and Time values_
